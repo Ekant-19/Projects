@@ -10,6 +10,7 @@ SELECT * FROM TRANSACTION_RAW;
 
 select * from CAMPAIGN_DESC_NEW;
 
+
 select * from COUPON_REDEMPT_NEW;
 
 select * from TRANSACTION_NEW;
